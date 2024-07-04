@@ -1,0 +1,1 @@
+En el código llamado Jacobiano, se desarrollará el código donde se desarrolla el SEP por el método iterativo Newton-Raphson, programado en python.
