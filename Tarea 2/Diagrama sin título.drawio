@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-07-05T19:02:42.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="dCHMsfSngGxon0SjQY9b" version="24.5.5" type="github">
+  <diagram name="Página-1" id="aEpCQ9yyibE8l2efFUZr">
+    <mxGraphModel dx="1760" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="esd2j3gvdiuoaq93mxo0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-2" target="esd2j3gvdiuoaq93mxo0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-2" value="Inicio del proyecto" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-3" target="esd2j3gvdiuoaq93mxo0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-3" value="Interiorizar como funciona método iterativo Newton-Raphson" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-4" target="esd2j3gvdiuoaq93mxo0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-4" target="esd2j3gvdiuoaq93mxo0-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="380" />
+              <mxPoint x="540" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-4" value="Realizar demostración del método iterativo para flujos de potencia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-5" target="esd2j3gvdiuoaq93mxo0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="600" />
+              <mxPoint x="420" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-5" value="Programar el sistema de potencia utilizando algoritmo desarrollado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-6" target="esd2j3gvdiuoaq93mxo0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="600" />
+              <mxPoint x="420" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-6" value="Programar sistema de potencia utilizando librería PandaPower" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-7" target="esd2j3gvdiuoaq93mxo0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-7" value="Comparar resultados obtenidos en ambos programas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-8" value="fin del proyecto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="esd2j3gvdiuoaq93mxo0-9" target="esd2j3gvdiuoaq93mxo0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="esd2j3gvdiuoaq93mxo0-9" value="Realizar diagrama de flujo del algoritmo&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;N-R a desarrollar&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
